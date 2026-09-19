@@ -350,7 +350,7 @@ const menuData = [
 
 // Announcement Title and Message
 const ANNOUNCEMENT = {
-  active: true,
+  active: false,
   title: "CLOSED FOR VACATION 8/9-8/28",
   message: "The owner and his family will be in Greece for vacation this August. We will be closed starting Sunday, August 9 and will reopen Saturday, August 29. We will see you when we get back!",
   type: "warning"
